@@ -13,6 +13,11 @@ steal.config({
 			exports: "jQuery"
 		}
 	},
+	shim : {
+		jquery: {
+			exports: "jQuery"
+		}
+	},
 	ext: {
 		js: "js",
 		css: "css",
