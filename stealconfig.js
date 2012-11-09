@@ -1,12 +1,17 @@
 steal.config({
 	map: {
 		"*": {
-			'jquery/jquery.js' : "jquery",
-			"can/util/util.js": "can/util/jquery/jquery.js"
+			"can/util/util.js": "can/util/jquery/jquery.js",
+			"jquery/jquery.js" : "jquery"
 		}
 	},
 	paths: {
-		"jquery": "can/util/jquery/jquery.1.7.1.js"
+		"jquery": "can/util/jquery/jquery.1.8.2.js"
+	},
+	shim : {
+		jquery: {
+			exports: "jQuery"
+		}
 	},
 	ext: {
 		js: "js",
@@ -15,4 +20,4 @@ steal.config({
 		coffee: "steal/coffee/coffee.js",
 		ejs: "can/view/ejs/ejs.js"
 	}
-})
+});
