@@ -1,15 +1,15 @@
 [submodule "documentjs"]
 	path = documentjs
-	url = git://github.com/NEO7EVEN/documentjs.git
+	url = https://github.com/NEO7EVEN/documentjs.git
 [submodule "funcunit"]
 	path = funcunit
-	url = git://github.com/NEO7EVEN/funcunit.git
+	url = https://github.com/NEO7EVEN/funcunit.git
 [submodule "steal"]
 	path = steal
-	url = git://github.com/NEO7EVEN/steal.git
+	url = https://github.com/NEO7EVEN/steal.git
 [submodule "jquery"]
 	path = jquery
-	url = git://github.com/NEO7EVEN/jquerypp.git
+	url = https://github.com/NEO7EVEN/jquerypp.git
 [submodule "can"]
 	path = can
 	url = https://github.com/NEO7EVEN/canjs.git
