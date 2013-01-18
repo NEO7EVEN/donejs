@@ -1,18 +1,18 @@
 [submodule "documentjs"]
 	path = documentjs
-	url = git://github.com/bitovi/documentjs.git
+	url = git://github.com/NEO7EVEN/documentjs.git
 [submodule "funcunit"]
 	path = funcunit
-	url = git://github.com/bitovi/funcunit.git
+	url = git://github.com/NEO7EVEN/funcunit.git
 [submodule "steal"]
 	path = steal
-	url = git://github.com/bitovi/steal.git
+	url = git://github.com/NEO7EVEN/steal.git
 [submodule "jquery"]
 	path = jquery
-	url = git://github.com/bitovi/jquerypp.git
+	url = git://github.com/NEO7EVEN/jquerypp.git
 [submodule "can"]
 	path = can
-	url = https://github.com/bitovi/canjs.git
+	url = https://github.com/NEO7EVEN/canjs.git
 [submodule "canui"]
 	path = canui
-	url = https://github.com/bitovi/canui.git
+	url = https://github.com/NEO7EVEN/canui.git
