@@ -1,0 +1,14 @@
+./can/update
+./canui/update
+./documentjs/update
+./jquery/update
+./README
+./site/code.html
+./site/contribute.html
+./steal/get/get.js
+./steal/get/gets.json
+./steal/get/test/README
+./steal/README.md
+./steal/update
+./tutorials/examples/todo.md
+./tutorials/installing.md

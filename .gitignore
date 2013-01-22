@@ -9,3 +9,4 @@ node_modules
 *.orig
 .idea
 tmp*
+/nbproject/private/

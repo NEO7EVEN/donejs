@@ -16,3 +16,6 @@
 [submodule "canui"]
 	path = canui
 	url = https://github.com/NEO7EVEN/canui.git
+[submodule "portal"]
+	path = portal
+	url = https://bitbucket.org/maxschuster/portal_done.git
